@@ -31,21 +31,20 @@
 
 ### 🛠️ Languages & Tools
 
-**Frontend & Mobile**
+**Frontend & Mobile**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart" alt="Frontend & Mobile" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,flutter,dart" alt="Frontend & Mobile" />
 </p>
 
-**Backend & Database**
+**Backend & Database**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,firebase" alt="Backend & Databases" />
+  <img src="https://skillicons.dev/icons?i=php,nodejs,express,java,python,mysql,mongodb,firebase" alt="Backend & Database" />
 </p>
 
-**Tools & Platforms**
+**Tools & Platforms**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws" alt="Tools & Cloud" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,aws" alt="Tools & Platforms" />
 </p>
-
 
 
 
